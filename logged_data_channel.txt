@@ -1,0 +1,45 @@
+time
+delta TCP SP x
+delta TCP SP y
+delta TCP SP z
+delta TCP PV x
+delta TCP PV y
+delta TCP PV z
+left Robot TCP SP x
+left Robot TCP SP y
+left Robot TCP SP z
+left Robot TCP PV x
+left Robot TCP PV y
+left Robot TCP Pv z
+right Robot TCP SP x
+right Robot TCP SP y
+right Robot TCP SP z
+right Robot TCP PV x
+right Robot TCP PV y
+right Robot TCP Pv z
+M1 position SP
+M1 position PV
+M2 position SP
+M2 position PV
+M3 position SP
+M3 position PV
+M1 speed SP
+M1 speed PV
+M2 speed SP
+M2 speed PV
+M3 speed SP
+M3 speed PV
+M1 current SP
+M1 current PV
+M2 current SP
+M2 current PV
+M3 current SP
+M3 current PV
+J0 position SP
+J0 position PV
+L-J1 position SP
+L-J1 position PV
+L-J2 position SP
+L-J2 position PV
+L-J3 position SP
+L-J3 position PV

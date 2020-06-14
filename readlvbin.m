@@ -34,5 +34,6 @@ function output = readlvbin(bin_file, n_channels)
         disp('Are you sure you gave the right number of channels?')
         output = 0;
     end
-
+    
+    fclose(fid);
 end

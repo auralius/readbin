@@ -37,6 +37,8 @@ function output = readbin(bin_file, n_channels, data_type)
         output = fread(fid, filelength/4, 'int32');
     elseif strcmp(data_type, 'double')
         output = fread(fid, filelength/8, 'double');
+    elseif strcmp(data_type, 'int64')
+        output = fread(fid, filelength/8, 'int64');
     else
         error('Define correct data type: int32 or double?')
     end
